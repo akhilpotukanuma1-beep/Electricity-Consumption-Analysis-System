@@ -1,0 +1,20 @@
+Flask
+mysql-connector-python
+pandas
+numpy
+matplotlib
+
+
+how to access data in web page:
+
+"/consumers",
+    "/meters",
+    "/meter-readings",
+    "/reports/consumer-summary",
+    "/reports/total-consumption",
+    "/reports/high-consumption",
+    "/analytics/consumer-usage",
+    "/analytics/meter-summary",
+    "/analytics/usage-numpy",
+    "/charts/consumer-usage",
+    "/charts/meter-readings"
